@@ -1,0 +1,2 @@
+# -Autism-Spectrum-Diagnostic-For-Toddlers-Using-Machine-Learning-Algorithms-With-Tkinter
+The early detection of autism symptoms in toddlers is crucial for effective interventions and improved outcomes. To address this issue, a diagnostic web application was developed using machine learning algorithms.Communication, social interaction, and behaviour are all impacted by the complicated neurological disease known as autism.
